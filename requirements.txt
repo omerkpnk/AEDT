@@ -1,0 +1,2 @@
+pyAesCrypt==6.0.0
+pyfiglet==0.8.post1
